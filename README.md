@@ -1,2 +1,2 @@
 # node-hashint
-HashInt
+Node module to hash integers values
