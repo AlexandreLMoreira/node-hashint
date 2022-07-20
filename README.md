@@ -1,0 +1,2 @@
+# node-hashint
+HashInt
