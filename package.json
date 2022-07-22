@@ -12,7 +12,12 @@
     "type": "git",
     "url": "https://github.com/AlexandreLMoreira/node-hashint.git"
   },
+  "keywords": ["hashint"],
   "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/AlexandreLMoreira/node-hashint/issues"
+  },
+  "homepage": "https://github.com/AlexandreLMoreira/node-hashint#readme",
   "dependencies": {
     "bindings": "^1.5.0",
     "node-addon-api": "^5.0.0"
