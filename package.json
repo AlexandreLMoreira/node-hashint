@@ -8,6 +8,10 @@
     "install": "node-gyp rebuild"
   },
   "author": "Alexandre L Moreira",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/AlexandreLMoreira/node-hashint.git"
+  },
   "license": "MIT",
   "dependencies": {
     "bindings": "^1.5.0",
