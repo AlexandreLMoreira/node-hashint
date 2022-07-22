@@ -1,5 +1,5 @@
 {
-  "name": "hashint",
+  "name": "@xandealm/hashint",
   "version": "1.0.0",
   "description": "module to hash integer numbers",
   "main": "index.js",
