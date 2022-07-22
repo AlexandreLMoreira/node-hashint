@@ -4,10 +4,11 @@
   "description": "module to hash integer numbers",
   "main": "index.js",
   "scripts": {
-    "test": "jest"
+    "test": "jest",
+    "install": "node-gyp rebuild"
   },
   "author": "Alexandre L Moreira",
-  "license": "ISC",
+  "license": "MIT",
   "dependencies": {
     "bindings": "^1.5.0",
     "node-addon-api": "^5.0.0"
