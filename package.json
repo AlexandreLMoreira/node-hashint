@@ -10,16 +10,16 @@
   "author": "Alexandre L Moreira",
   "repository": {
     "type": "git",
-    "url": "https://github.com/AlexandreLMoreira/node-hashint.git"
+    "url": "https://github.com/xandealm/node-hashint.git"
   },
   "keywords": [
     "hashint"
   ],
   "license": "MIT",
   "bugs": {
-    "url": "https://github.com/AlexandreLMoreira/node-hashint/issues"
+    "url": "https://github.com/xandealm/node-hashint/issues"
   },
-  "homepage": "https://github.com/AlexandreLMoreira/node-hashint#readme",
+  "homepage": "https://github.com/xandealm/node-hashint#readme",
   "dependencies": {
     "bindings": "^1.5.0",
     "node-addon-api": "^5.0.0"
